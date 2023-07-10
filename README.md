@@ -1,6 +1,6 @@
 # LINK UP
 
-A web application called Project Name that allows users to search  advocates from different tech companies. It consists of a backend built with Django and a frontend built with React.
+A web application that allows users to search  advocates from different tech domains. It consists of a backend built with Django and a frontend built with React.
 
 ## Clone the Repository
 
