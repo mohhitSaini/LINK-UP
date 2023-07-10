@@ -7,6 +7,7 @@ A web application called Project Name that allows users to search  advocates fro
 To get started with the Project Name, follow these steps:
 
 1. Clone the repository to your local machine: git clone https://github.com/mohhitSaini/LINK-UP.git
+2. Take out the backend folder from the current folder for better and simple usage.
 
 
 ## Backend Usage
